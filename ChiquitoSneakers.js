@@ -1,5 +1,5 @@
 console.log("Hello, World!");
-function student{
+var student = {
   name: Martha;
   age: 19;
 };
